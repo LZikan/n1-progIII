@@ -1,0 +1,41 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    margin-top: auto;
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+th {
+    padding-left: 10px;
+}
+
+
+td {
+    padding-left: 10px;
+}
+
+table {
+    margin-bottom: 40px;
+}
+
+.primeira-func {
+    padding-bottom: 20px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+#logo {
+    height: 60px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+}
+
